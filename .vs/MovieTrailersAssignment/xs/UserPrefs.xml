@@ -1,0 +1,58 @@
+﻿<Properties StartupConfiguration="{E825FCF9-1AAD-4E7A-89AC-F8FB2C222FCE}|Default">
+  <MonoDevelop.Ide.ItemProperties.MovieTrailersAssignment PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieTrailersAssignment/ClientApp/src/App.js">
+    <Files>
+      <File FileName="MovieTrailersAssignment/ClientApp/src/components/Home.js" Line="18" Column="27" />
+      <File FileName="MovieTrailersAssignment/appsettings.json" />
+      <File FileName="MovieTrailersAssignment/Models/Movie.cs" />
+      <File FileName="MovieTrailersAssignment/ClientApp/src/client/MovieClient.js" />
+      <File FileName="MovieTrailersAssignment/Dtos/TrailerReadDto.cs" />
+      <File FileName="MovieTrailersAssignment/Controllers/TrailersController.cs" />
+      <File FileName="MovieTrailersAssignment/Controllers/MoviesController.cs" />
+      <File FileName="MovieTrailersAssignment/Dtos/MovieReadDto.cs" />
+      <File FileName="MovieTrailersAssignment/Models/Trailer.cs" />
+      <File FileName="MovieTrailersAssignment/Services/MovieTrailerRepository.cs" />
+      <File FileName="MovieTrailersAssignment/Services/IMovieTrailerRepository.cs" />
+      <File FileName="MovieTrailersAssignment/Services/MovieRepository.cs" />
+      <File FileName="MovieTrailersAssignment/ClientApp/src/components/About.js" />
+      <File FileName="MovieTrailersAssignment/ClientApp/src/custom.css" />
+      <File FileName="MovieTrailersAssignment/Services/IMovieRepository.cs" />
+      <File FileName="MovieTrailersAssignment/Startup.cs" />
+      <File FileName="MovieTrailersAssignment/Properties/launchSettings.json" />
+      <File FileName="MovieTrailersAssignment/package.json" />
+      <File FileName="MovieTrailersAssignment/package-lock.json" />
+      <File FileName="MovieTrailersAssignment/Program.cs" />
+      <File FileName="MovieTrailersAssignment/Models/SearchResult.cs" />
+      <File FileName="MovieTrailersAssignment/Profiles/TrailerProfile.cs" />
+      <File FileName="MovieTrailersAssignment/ClientApp/src/App.js" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MovieTrailersAssignment" expanded="True">
+            <Node name="MovieTrailersAssignment" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="client" expanded="True" />
+                  <Node name="components" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Dtos" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Profiles" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
